@@ -9,7 +9,7 @@ regions in the United States.
 ## Some of the items that can be found are listed below:
 1. County Health Data 2014-2015 (The original data file)
 2. The notebook that contains the [subset](https://github.com/Jocelyn-English105/County-Health-Data-Subset/tree/main/Subset%20Notebook) data procedure. (.ipynb File) 
-3. The [rawdata](https://github.com/Jocelyn-English105/County-Health-Data-Subset/blob/main/rawdata.csv) file created from the data procedure (.csv File).
+3. The [rawdata](https://github.com/Jocelyn-English105/County-Health-Data-Subset/blob/main/Subset%20Notebook/rawdata.csv) file created from the data procedure (.csv File).
 4. A visual of the data gathered from the subset created (.jpeg File)
 
 ## Uses
