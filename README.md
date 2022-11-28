@@ -10,7 +10,7 @@ regions in the United States.
 1. County Health Data 2014-2015 (The original data file)
 2. The notebook that contains the [subset](https://github.com/Jocelyn-English105/County-Health-Data-Subset/tree/main/Subset%20Notebook) data procedure. (.ipynb File) 
 3. The [rawdata](https://github.com/Jocelyn-English105/County-Health-Data-Subset/blob/main/Subset%20Notebook/rawdata.csv) file created from the data procedure (.csv File).
-4. A visual of the data gathered from the subset created (.jpeg File)
+4. A [visual](https://github.com/Jocelyn-English105/County-Health-Data-Subset/blob/main/Diabetes%20by%20Region%20(3).jpeg) of the data gathered from the subset created (.jpeg File)
 
 ## Uses
 The notebook contains the process used to take primary data of diabetes and turn it into something that 
