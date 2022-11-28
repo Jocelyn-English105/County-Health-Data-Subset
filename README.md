@@ -7,7 +7,7 @@ the prevalence of diabetes in 10 counties from the state of North Carolina and d
 regions in the United States. 
 
 ## Some of the items that can be found are listed below:
-1. County Health Data 2014-2015 (The original data file)
+1. County Health Data [2014-2015](https://github.com/Jocelyn-English105/County-Health-Data-Subset/blob/main/CountyHealthData_2014-2015.csv) (The original data file)
 2. The notebook that contains the [subset](https://github.com/Jocelyn-English105/County-Health-Data-Subset/tree/main/Subset%20Notebook) data procedure. (.ipynb File) 
 3. The [rawdata](https://github.com/Jocelyn-English105/County-Health-Data-Subset/blob/main/Subset%20Notebook/rawdata.csv) file created from the data procedure (.csv File).
 4. A [visual](https://github.com/Jocelyn-English105/County-Health-Data-Subset/blob/main/Diabetes%20by%20Region%20(3).jpeg) of the data gathered from the subset created (.jpeg File)
